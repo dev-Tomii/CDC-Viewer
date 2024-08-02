@@ -159,4 +159,7 @@ resetButton.grid(row=2, column=0, padx=20, pady=10)
 updateButton = ttk.Button(dbFrame, text='Atualizar', width=20, command=updateTable)
 updateButton.grid(row=3, column=0, padx=20, pady=(10, 20))
 
+sign = ttk.Label(root, text='Made by weed.Tomii | Discord @gtomii_', font='Courier  10')
+sign.grid(columnspan=3, row=2, column=0, padx=10, pady=10)
+
 root.mainloop()
