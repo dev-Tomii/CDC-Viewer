@@ -1,0 +1,146 @@
+[
+    {
+        "CT": [
+            4,
+            0,
+            2
+        ],
+        "clan": "Vasco",
+        "color": "gray",
+        "leader": "Zonne",
+        "seasons": 2,
+        "coleader": "Kura & Yang"
+    },
+    {
+        "CT": [
+            0,
+            2,
+            2
+        ],
+        "clan": "Bichos do Mato",
+        "color": "green",
+        "leader": "Toge",
+        "seasons": 0,
+        "coleader": "-"
+    },
+    {
+        "CT": [
+            2,
+            0,
+            0
+        ],
+        "clan": "Inimigos da Moda",
+        "color": "red",
+        "leader": "LucasPro",
+        "seasons": 1,
+        "coleader": "HawkChan & pauloisreal"
+    },
+    {
+        "CT": [
+            1,
+            2,
+            1
+        ],
+        "clan": "Firebirds",
+        "color": "yellow",
+        "leader": "Reddy",
+        "seasons": 0,
+        "coleader": "Corazon"
+    },
+    {
+        "CT": [
+            1,
+            1,
+            3
+        ],
+        "clan": "Aurora",
+        "color": "cyan",
+        "leader": "Shabu",
+        "seasons": 0,
+        "coleader": "-"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            1
+        ],
+        "clan": "Cruzeiro",
+        "color": "blue",
+        "leader": "Marvin",
+        "seasons": 0,
+        "coleader": "Nifu Grim"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            0
+        ],
+        "clan": "Patota da Moneymatch",
+        "color": "pink",
+        "leader": "prince Ghost",
+        "seasons": 0,
+        "coleader": "-"
+    },
+    {
+        "CT": [
+            0,
+            1,
+            0
+        ],
+        "clan": "Complexo do Corinthians",
+        "color": "white",
+        "leader": "Doki",
+        "seasons": 0,
+        "coleader": "WynD"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            0
+        ],
+        "clan": "Strawberry Tea",
+        "color": "purple",
+        "leader": "Lokistrange",
+        "seasons": 0,
+        "coleader": "-"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            0
+        ],
+        "clan": "Ranked Beasts",
+        "color": "orange",
+        "leader": "Lightzinbh",
+        "seasons": 0,
+        "coleader": "Zinyzin"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            0
+        ],
+        "clan": "Olimpo",
+        "color": "teamyellow",
+        "leader": "Stray",
+        "seasons": 0,
+        "coleader": "Firezinhuu16 & Snow 232"
+    },
+    {
+        "CT": [
+            0,
+            0,
+            0
+        ],
+        "clan": "Blackwater WWC",
+        "color": "brown",
+        "leader": "orion_ultimate",
+        "seasons": 0,
+        "coleader": "-"
+    }
+]
