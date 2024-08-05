@@ -1,1390 +1,1313 @@
 {
     "jogadores": [
         {
-            "nome": "kaito",
-            "hierarquia": "Membro",
+            "nome": "Kaito",
+            "hierarquia": "Co-Lider",
             "custo": 110,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "himikotoga",
-            "hierarquia": "Membro",
-            "custo": 100,
-            "clan": "Bichos do Mato",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "phanto",
+            "nome": "Phanto",
             "hierarquia": "Membro",
             "custo": 100,
             "clan": "Complexo do Corinthians",
-            "lenda": "Isaiah"
+            "lenda": "isaiah"
+        },
+        {
+            "nome": "Himari",
+            "hierarquia": "Membro",
+            "custo": 100,
+            "clan": "Cruzeiro",
+            "lenda": "tezca"
         },
         {
             "nome": "Navarro",
             "hierarquia": "Membro",
             "custo": 100,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "scarlet"
         },
         {
-            "nome": "hipper",
+            "nome": "Hipper",
             "hierarquia": "Membro",
             "custo": 100,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "kant",
+            "nome": "Kant",
             "hierarquia": "Membro",
             "custo": 100,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "ulgrim"
         },
         {
             "nome": "Kyrios",
             "hierarquia": "Membro",
             "custo": 100,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "ulgrim"
         },
         {
-            "nome": "Stark",
+            "nome": "Alisson2005g",
             "hierarquia": "Membro",
             "custo": 90,
             "clan": "Aurora",
-            "lenda": "desconhecido"
+            "lenda": "sir roland"
         },
         {
-            "nome": "alisson2005g",
+            "nome": "Partner",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Aurora",
-            "lenda": "Sir Roland"
-        },
-        {
-            "nome": "Kills22s",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Bichos do Mato",
-            "lenda": "Diana"
-        },
-        {
-            "nome": "Neeko",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Magyar"
-        },
-        {
-            "nome": "Bryan",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Jhala"
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
         },
         {
             "nome": "Stolas",
             "hierarquia": "Membro",
             "custo": 90,
             "clan": "Complexo do Corinthians",
-            "lenda": "Ulgrim"
+            "lenda": "ulgrim"
         },
         {
-            "nome": "Jere-Kun",
+            "nome": "Neeko",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Cruzeiro",
-            "lenda": "Jaeyun"
+            "clan": "Complexo do Corinthians",
+            "lenda": "magyar"
         },
         {
-            "nome": "flamenguista",
+            "nome": "Peoxx",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Cruzeiro",
-            "lenda": "Teros"
-        },
-        {
-            "nome": "Marshy",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Cruzeiro",
-            "lenda": "Val"
+            "clan": "Complexo do Corinthians",
+            "lenda": "yumiko"
         },
         {
             "nome": "lawliet",
             "hierarquia": "Membro",
             "custo": 90,
             "clan": "Cruzeiro",
-            "lenda": "Mordex"
+            "lenda": "mordex"
         },
         {
-            "nome": "Peoxx",
+            "nome": "Flamenguista",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "clan": "Cruzeiro",
+            "lenda": "teros"
         },
         {
-            "nome": "Baltazzar",
+            "nome": "pauloisreal",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "clan": "Inimigos da Moda",
+            "lenda": "asuri"
+        },
+        {
+            "nome": "Shaolin",
+            "hierarquia": "Membro",
+            "custo": 90,
+            "clan": "Inimigos da Moda",
+            "lenda": "brynn"
+        },
+        {
+            "nome": "CaueNinja",
+            "hierarquia": "Membro",
+            "custo": 90,
+            "clan": "Olimpo",
+            "lenda": "tezca"
         },
         {
             "nome": "4nto",
             "hierarquia": "Membro",
             "custo": 90,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "clan": "Ranked Beasts",
+            "lenda": "sidra"
         },
         {
-            "nome": "pauloisnotreal",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Shaolin",
-            "hierarquia": "Lider",
-            "custo": 90,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Ninjaue",
+            "nome": "yMath",
             "hierarquia": "Membro",
             "custo": 90,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "azasuh",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Bonnibel",
-            "hierarquia": "Membro",
-            "custo": 90,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "asuri"
         },
         {
             "nome": "Astro",
             "hierarquia": "Membro",
             "custo": 90,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "mirage"
         },
         {
-            "nome": "sagitares",
+            "nome": "Space",
+            "hierarquia": "Membro",
+            "custo": 90,
+            "clan": "Vasco",
+            "lenda": "kaya"
+        },
+        {
+            "nome": "Bonnibel",
+            "hierarquia": "Membro",
+            "custo": 90,
+            "clan": "Vasco",
+            "lenda": "thea"
+        },
+        {
+            "nome": "enzol",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Aurora",
-            "lenda": "Thor"
+            "lenda": "zariel"
         },
         {
-            "nome": "TheLonely",
+            "nome": "Approx",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Aurora",
-            "lenda": "Teros"
-        },
-        {
-            "nome": "Catto Unreal",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Bichos do Mato",
-            "lenda": "Queen Nai"
-        },
-        {
-            "nome": "Michel",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Bichos do Mato",
-            "lenda": "Ulgrim"
+            "lenda": "hattori"
         },
         {
             "nome": "mss2z",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Bichos do Mato",
-            "lenda": "Arcadia"
+            "lenda": "jaeyun"
+        },
+        {
+            "nome": "Michel",
+            "hierarquia": "Membro",
+            "custo": 80,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Hawk",
+            "hierarquia": "Membro",
+            "custo": 80,
+            "clan": "Blackwater WWC",
+            "lenda": "rayman"
+        },
+        {
+            "nome": "Mathred",
+            "hierarquia": "Membro",
+            "custo": 80,
+            "clan": "Complexo do Corinthians",
+            "lenda": "dusk"
         },
         {
             "nome": "Anxiety",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Complexo do Corinthians",
-            "lenda": "Nix"
+            "lenda": "brynn"
         },
         {
-            "nome": "Kyros",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Scarlet"
-        },
-        {
-            "nome": "Jask",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Barraza"
-        },
-        {
-            "nome": "Desir",
+            "nome": "Yunna",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Cruzeiro",
-            "lenda": "Nix"
+            "lenda": "magyar"
         },
         {
-            "nome": "Yuuna",
-            "hierarquia": "Membro",
+            "nome": "Nifu Grim",
+            "hierarquia": "Co-Lider",
             "custo": 80,
             "clan": "Cruzeiro",
-            "lenda": "desconhecido"
+            "lenda": "nix"
         },
         {
-            "nome": "Diieegoo12",
+            "nome": "Cadelino_safadito",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Itz_Akumas",
-            "hierarquia": "Membro",
+            "nome": "LucasPro",
+            "hierarquia": "Lider",
             "custo": 80,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "clan": "Inimigos da Moda",
+            "lenda": "orion"
         },
         {
-            "nome": "LucasPro7L",
+            "nome": "Dex",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "wu shang"
         },
         {
-            "nome": "molz",
+            "nome": "Herock",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "wu shang"
         },
         {
-            "nome": "Approx",
+            "nome": "Sinez",
             "hierarquia": "Membro",
             "custo": 80,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "ulgrim"
         },
         {
-            "nome": "Serretti",
+            "nome": "Moleza",
             "hierarquia": "Membro",
             "custo": 80,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "hattori"
         },
         {
-            "nome": "Patovisk",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Diniz",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Enzol",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Cebola",
+            "nome": "Jason",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "artemis"
         },
         {
-            "nome": "eduwart0",
+            "nome": "Lyn",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "LokiStrange",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Joseph",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Kyln",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "erick",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Kura",
-            "hierarquia": "Membro",
-            "custo": 80,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
             "nome": "GRC",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "diana"
         },
         {
-            "nome": "Qiyana",
+            "nome": "Kura",
+            "hierarquia": "Co-Lider",
+            "custo": 80,
+            "clan": "Vasco",
+            "lenda": "magyar"
+        },
+        {
+            "nome": "Erick",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "scarlet"
         },
         {
-            "nome": "InfameBR",
+            "nome": "Infame",
             "hierarquia": "Membro",
             "custo": 80,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "jaeyun"
         },
         {
-            "nome": "PiZ",
+            "nome": "Sanduba",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Aurora",
-            "lenda": "Jhala"
-        },
-        {
-            "nome": "Kun",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Aurora",
-            "lenda": "Bodvar"
+            "lenda": "bodvar"
         },
         {
             "nome": "Noxius",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Aurora",
-            "lenda": "Hattori"
+            "lenda": "hattori"
         },
         {
-            "nome": "Ueupo",
+            "nome": "Leozin",
+            "hierarquia": "Membro",
+            "custo": 70,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "kaisecso",
+            "hierarquia": "Membro",
+            "custo": 70,
+            "clan": "Bichos do Mato",
+            "lenda": "aang"
+        },
+        {
+            "nome": "SunFlower",
+            "hierarquia": "Membro",
+            "custo": 70,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Lautaro",
+            "hierarquia": "Co-Lider",
+            "custo": 70,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Jask",
             "hierarquia": "Lider",
             "custo": 70,
-            "clan": "Aurora",
-            "lenda": "Artemis"
+            "clan": "Blackwater WWC",
+            "lenda": "isaiah"
         },
         {
-            "nome": "Finn",
-            "hierarquia": "Membro",
+            "nome": "Wynd",
+            "hierarquia": "Co-Lider",
             "custo": 70,
-            "clan": "Aurora",
-            "lenda": "Scarlet"
+            "clan": "Complexo do Corinthians",
+            "lenda": "sidra"
         },
         {
-            "nome": "Josu",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Bichos do Mato",
-            "lenda": "Ragnir"
-        },
-        {
-            "nome": "Silence",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Bichos do Mato",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Meu_Marido",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Bichos do Mato",
-            "lenda": "Ragnir"
-        },
-        {
-            "nome": "ghuat",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Bichos do Mato",
-            "lenda": "Ezio"
-        },
-        {
-            "nome": "nicemk",
+            "nome": "Ghuat",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Complexo do Corinthians",
-            "lenda": "Val"
+            "lenda": "thor"
         },
         {
             "nome": "Wrench",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Complexo do Corinthians",
-            "lenda": "Red Raptor"
+            "lenda": "redraptor"
         },
         {
-            "nome": "chris",
+            "nome": "Sumi",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Cruzeiro",
-            "lenda": "Petra"
+            "lenda": "mordex"
         },
         {
-            "nome": "fire",
+            "nome": "Studd",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Cruzeiro",
-            "lenda": "Jhala"
+            "lenda": "jaeyun"
         },
         {
-            "nome": "Pedro",
+            "nome": "Fire",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Cruzeiro",
-            "lenda": "Asuri"
+            "lenda": "jhala"
         },
         {
-            "nome": "Larkin",
+            "nome": "Chris Carl",
+            "hierarquia": "Membro",
+            "custo": 70,
+            "clan": "Cruzeiro",
+            "lenda": "ezio"
+        },
+        {
+            "nome": "KARATE",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "magyar"
         },
         {
-            "nome": "sanduba",
+            "nome": "Caf\u00e9ssauro",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "queen nai"
         },
         {
-            "nome": "ya",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Hawk",
+            "nome": "ast",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "mirage"
         },
         {
-            "nome": "Dex",
+            "nome": "Finn",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Henriquelas",
+            "nome": "Obolipa",
             "hierarquia": "Membro",
             "custo": 70,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "ada"
         },
         {
-            "nome": "Zephiro",
+            "nome": "Shinimidori",
             "hierarquia": "Membro",
             "custo": 70,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "diana"
         },
         {
-            "nome": "nezumi",
+            "nome": "Josu",
+            "hierarquia": "Membro",
+            "custo": 70,
+            "clan": "Olimpo",
+            "lenda": "ragnir"
+        },
+        {
+            "nome": "Lohan",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Haru",
+            "nome": "MIG",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "prince Ghost",
-            "hierarquia": "Membro",
+            "nome": "Nezumi",
+            "hierarquia": "Co-Lider",
             "custo": 70,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "ulgrim"
         },
         {
-            "nome": "Sheen",
+            "nome": "Musshasi",
+            "hierarquia": "Co-Lider",
+            "custo": 70,
+            "clan": "Patota da Moneymatch",
+            "lenda": "scarlet"
+        },
+        {
+            "nome": "Prince Ghost",
+            "hierarquia": "Lider",
+            "custo": 70,
+            "clan": "Patota da Moneymatch",
+            "lenda": "queen nai"
+        },
+        {
+            "nome": "Nydex",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "rayman"
         },
         {
-            "nome": "Obolipa2",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Jason",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "kullow",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Isay",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Cafessauro",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Rael",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "zonne",
+            "nome": "Zonne",
             "hierarquia": "Lider",
             "custo": 70,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "sentinel"
         },
         {
-            "nome": "Megadogeer",
+            "nome": "Megadoge-er",
             "hierarquia": "Membro",
             "custo": 70,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "jake"
         },
         {
-            "nome": "julia",
-            "hierarquia": "Membro",
-            "custo": 70,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "liberty",
+            "nome": "Unarmad",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Aurora",
-            "lenda": "Yumiko"
+            "lenda": "wu shang"
         },
         {
-            "nome": "UnarMad",
+            "nome": "Wizz",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Aurora",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "FoxSpartan",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Aurora",
+            "lenda": "diana"
+        },
+        {
+            "nome": "Gutim",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Aurora",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Tsuyashi",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Aurora",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Zatt",
+            "hierarquia": "Co-Lider",
+            "custo": 60,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "GYRO",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "DarKoXx",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Tayo",
+            "hierarquia": "Co-Lider",
+            "custo": 60,
+            "clan": "Blackwater WWC",
+            "lenda": "orion"
+        },
+        {
+            "nome": "Zairuz",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Complexo do Corinthians",
+            "lenda": "hattori"
+        },
+        {
+            "nome": "NiceName",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Complexo do Corinthians",
+            "lenda": "azoth"
+        },
+        {
+            "nome": "Liberty",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Cruzeiro",
+            "lenda": "yumiko"
+        },
+        {
+            "nome": "Snowy",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Cruzeiro",
+            "lenda": "yumiko"
         },
         {
             "nome": "Vainner",
             "hierarquia": "Membro",
             "custo": 60,
-            "clan": "Aurora",
-            "lenda": "Sidra"
+            "clan": "Firebirds",
+            "lenda": "lin fei"
         },
         {
-            "nome": "Tayo379",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Aurora",
-            "lenda": "Orion"
-        },
-        {
-            "nome": "marcinho",
-            "hierarquia": "Lider",
-            "custo": 60,
-            "clan": "Bichos do Mato",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Loud Zin",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Bichos do Mato",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Nice Name",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Bichos do Mato",
-            "lenda": "Ragnir"
-        },
-        {
-            "nome": "mistyc",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Bichos do Mato",
-            "lenda": "Thor"
-        },
-        {
-            "nome": "zairuz",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Hattori"
-        },
-        {
-            "nome": "WynD",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Sidra"
-        },
-        {
-            "nome": "VKOnBeat",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Asuri"
-        },
-        {
-            "nome": "Studd",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Cruzeiro",
-            "lenda": "Jaeyun"
-        },
-        {
-            "nome": "kvnn",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Cruzeiro",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Robr",
+            "nome": "Nicemk",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "mordex"
         },
         {
-            "nome": "Benji H3",
+            "nome": "Roanfex",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "vini",
+            "nome": "fellas",
             "hierarquia": "Membro",
             "custo": 60,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Snow232",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Akkashi",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "DragonsXzn",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "musshashi",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Sumi",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Ayuto",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "leviata",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Nydex",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "kevin-ferreira61",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Zatt",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Harry Nordic",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Dye",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Danylex15",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "haidzn",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Lazaruz",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "sondyang",
-            "hierarquia": "Membro",
-            "custo": 60,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
+            "clan": "Firebirds",
+            "lenda": "bodvar"
         },
         {
             "nome": "Kaneka",
             "hierarquia": "Membro",
             "custo": 60,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
+            "clan": "Inimigos da Moda",
+            "lenda": "orion"
         },
         {
-            "nome": "ark",
+            "nome": "Lim\u00e3o",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Inimigos da Moda",
+            "lenda": "ada"
+        },
+        {
+            "nome": "Vi Champ",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Inimigos da Moda",
+            "lenda": "jhala"
+        },
+        {
+            "nome": "Stray",
+            "hierarquia": "Lider",
+            "custo": 60,
+            "clan": "Olimpo",
+            "lenda": "kaya"
+        },
+        {
+            "nome": "Robr",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Olimpo",
+            "lenda": "jhala"
+        },
+        {
+            "nome": "SnowDragon",
+            "hierarquia": "Co-Lider",
+            "custo": 60,
+            "clan": "Olimpo",
+            "lenda": "ada"
+        },
+        {
+            "nome": "copasticool",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Patota da Moneymatch",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "haidzin",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Patota da Moneymatch",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Lucas_Zyzz",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Patota da Moneymatch",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Akeny",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Ranked Beasts",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Mistyc",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Ranked Beasts",
+            "lenda": "seven"
+        },
+        {
+            "nome": "Leviata",
+            "hierarquia": "Membro",
+            "custo": 60,
+            "clan": "Ranked Beasts",
+            "lenda": "artemis"
+        },
+        {
+            "nome": "Yang",
+            "hierarquia": "Co-Lider",
+            "custo": 60,
+            "clan": "Vasco",
+            "lenda": "xull"
+        },
+        {
+            "nome": "Ark",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "lucien"
         },
         {
             "nome": "Luskinha",
             "hierarquia": "Membro",
             "custo": 60,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "ember"
         },
         {
-            "nome": "Technoshabu",
+            "nome": "sunnyviih",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Aurora",
-            "lenda": "Mordex"
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Joji Lee",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Aurora",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Shabu",
+            "hierarquia": "Lider",
+            "custo": 50,
+            "clan": "Aurora",
+            "lenda": "diana"
         },
         {
             "nome": "Luffy",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Aurora",
-            "lenda": "Jiro"
+            "lenda": "aang"
         },
         {
-            "nome": "MineVinnyHN",
+            "nome": "Mika",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Bichos do Mato",
-            "lenda": "Asuri"
+            "lenda": "bodvar"
         },
         {
-            "nome": "doki",
+            "nome": "Jorgiz",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Santiel",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "arthureli ",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Cesmor",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Complexo do Corinthians",
+            "lenda": "magyar"
+        },
+        {
+            "nome": "Doki",
             "hierarquia": "Lider",
             "custo": 50,
             "clan": "Complexo do Corinthians",
-            "lenda": "Sir Roland"
+            "lenda": "tezca"
         },
         {
-            "nome": "gaNjah",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Thatch"
-        },
-        {
-            "nome": "cesmor0205",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Complexo do Corinthians",
-            "lenda": "Brynn"
-        },
-        {
-            "nome": "TUCO-EXTREME",
+            "nome": "Lyin",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Cruzeiro",
-            "lenda": "Jiro"
+            "lenda": "barraza"
+        },
+        {
+            "nome": "Pa\u00e7oca",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Cruzeiro",
+            "lenda": "hattori"
         },
         {
             "nome": "Marvin",
             "hierarquia": "Lider",
             "custo": 50,
             "clan": "Cruzeiro",
-            "lenda": "Artemis"
+            "lenda": "artemis"
         },
         {
-            "nome": "Liyn",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Cruzeiro",
-            "lenda": "Jaeyun"
-        },
-        {
-            "nome": "Pa\u00e7oquenha",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Cruzeiro",
-            "lenda": "Hattori"
-        },
-        {
-            "nome": "Dos Anjos",
-            "hierarquia": "Lider",
-            "custo": 50,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "velokkio",
+            "nome": "Joshi",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Sando Gomez",
+            "nome": "MineVHN",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "asuri"
         },
         {
-            "nome": "Reddy",
+            "nome": "miltinho",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Limao",
+            "nome": "Elipey",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "kaya"
         },
         {
-            "nome": "avelar",
+            "nome": "GENER",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "mayonaka",
+            "nome": "Firezinhu",
+            "hierarquia": "Co-Lider",
+            "custo": 50,
+            "clan": "Olimpo",
+            "lenda": "thea"
+        },
+        {
+            "nome": "NikMattos",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Olimpo",
+            "lenda": "munin"
+        },
+        {
+            "nome": "Mayonaka",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "tracks",
+            "nome": "Infokill",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "Luska",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Zinyzin",
+            "nome": "Jopate",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "orion"
         },
         {
-            "nome": "ThunderEvyl",
+            "nome": "asmodeus",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "oi",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
             "nome": "Loro",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
+            "lenda": "onyx"
         },
         {
-            "nome": "Mathtxxx",
+            "nome": "ThunderEvyl",
             "hierarquia": "Membro",
             "custo": 50,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
+            "clan": "Ranked Beasts",
+            "lenda": "jaeyun"
         },
         {
-            "nome": "Jopate",
-            "hierarquia": "Membro",
+            "nome": "Zinyzin",
+            "hierarquia": "Co-Lider",
             "custo": 50,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
+            "clan": "Ranked Beasts",
+            "lenda": "wu shang"
         },
         {
-            "nome": "FoxSpartan",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "t3c0",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "N3turn",
-            "hierarquia": "Membro",
-            "custo": 50,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Stray",
+            "nome": "Miyazaki",
             "hierarquia": "Membro",
             "custo": 50,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "lucien"
         },
         {
-            "nome": "Cursed",
+            "nome": "Yous",
+            "hierarquia": "Membro",
+            "custo": 50,
+            "clan": "Vasco",
+            "lenda": "xull"
+        },
+        {
+            "nome": "DK",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Aurora",
-            "lenda": "Teros"
+            "lenda": "bodvar"
         },
         {
-            "nome": "SalamanderXP",
+            "nome": "Texst",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Aurora",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "gothpineapple",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Aurora",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Salaminion",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Bichos do Mato",
-            "lenda": "Asuri"
-        },
-        {
-            "nome": "BKziks",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Bichos do Mato",
-            "lenda": "Mordex"
+            "lenda": "bodvar"
         },
         {
             "nome": "Whyte",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Bichos do Mato",
-            "lenda": "Isaiah"
+            "lenda": "petra"
         },
         {
-            "nome": "ilvlux",
+            "nome": "EXODIA",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Bichos do Mato",
+            "lenda": "caspian"
+        },
+        {
+            "nome": "Canela",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Bichos do Mato",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "YagsoidOsgaydi",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Rekt",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "thew6rst",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Blackwater WWC",
+            "lenda": "aang"
+        },
+        {
+            "nome": "Nawelo",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Blackwater WWC",
+            "lenda": "aang"
+        },
+        {
+            "nome": "NBR",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Complexo do Corinthians",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "srkszin",
+            "nome": "triunfo_numeral",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Complexo do Corinthians",
-            "lenda": "Ember"
+            "lenda": "barraza"
         },
         {
-            "nome": "yas",
+            "nome": "Kurisu_Makiise",
             "hierarquia": "Membro",
             "custo": 40,
-            "clan": "Cruzeiro",
-            "lenda": "Jaeyun"
-        },
-        {
-            "nome": "oTavico",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Cruzeiro",
-            "lenda": "Val"
+            "clan": "Complexo do Corinthians",
+            "lenda": "aang"
         },
         {
             "nome": "vhZ",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Cruzeiro",
-            "lenda": "Barraza"
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Arthur",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Cruzeiro",
+            "lenda": "zuko"
+        },
+        {
+            "nome": "hz",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Cruzeiro",
+            "lenda": "aang"
+        },
+        {
+            "nome": "oTavico",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Cruzeiro",
+            "lenda": "zuko"
         },
         {
             "nome": "sueltop",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "nix"
         },
         {
-            "nome": "Sapo com Banjo",
+            "nome": "Corazon",
+            "hierarquia": "Co-Lider",
+            "custo": 40,
+            "clan": "Firebirds",
+            "lenda": "yumiko"
+        },
+        {
+            "nome": "Reddy",
+            "hierarquia": "Lider",
+            "custo": 40,
+            "clan": "Firebirds",
+            "lenda": "vector"
+        },
+        {
+            "nome": "Rawzu",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "ViniDBoy",
+            "nome": "Klebola",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Gyo",
+            "nome": "Ariel",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "sidra"
         },
         {
-            "nome": "arielxyz.nz",
+            "nome": "Eduu",
             "hierarquia": "Membro",
             "custo": 40,
-            "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "bodvar"
         },
         {
-            "nome": "Morrer",
+            "nome": "yuzuk",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Olimpo",
+            "lenda": "jhala"
+        },
+        {
+            "nome": "Vitinho",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Olimpo",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Yass",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Olimpo",
+            "lenda": "jaeyun"
+        },
+        {
+            "nome": "Coala",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "mercury",
+            "nome": "Ers",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "lightzinbh",
+            "nome": "Kay",
+            "hierarquia": "Membro",
+            "custo": 40,
+            "clan": "Ranked Beasts",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Lightzin",
             "hierarquia": "Lider",
             "custo": 40,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Wizz",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "master2018",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "DK",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "pointrs",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "firezinhuu16",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "Miyazaki",
-            "hierarquia": "Membro",
-            "custo": 40,
-            "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "rayman"
         },
         {
             "nome": "Zera",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "mordex"
         },
         {
-            "nome": "Black",
+            "nome": "BreninhoBlack",
             "hierarquia": "Membro",
             "custo": 40,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "caspian"
         },
         {
-            "nome": "blu3tufie",
+            "nome": "Dudu",
             "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Aurora",
-            "lenda": "Rayman"
-        },
-        {
-            "nome": "Vitinhoksksk",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Aurora",
-            "lenda": "Magyar"
-        },
-        {
-            "nome": "Exodia",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Bichos do Mato",
-            "lenda": "Lucien"
+            "custo": 40,
+            "clan": "Vasco",
+            "lenda": "kaya"
         },
         {
             "nome": "Toge",
-            "hierarquia": "Membro",
+            "hierarquia": "Lider",
             "custo": 30,
             "clan": "Bichos do Mato",
-            "lenda": "Arcadia"
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "Bepoi",
+            "hierarquia": "Membro",
+            "custo": 30,
+            "clan": "Blackwater WWC",
+            "lenda": "bodvar"
         },
         {
             "nome": "sms",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Complexo do Corinthians",
-            "lenda": "Mako"
+            "lenda": "mako"
         },
         {
-            "nome": "miniwill",
+            "nome": "Miniwil",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Complexo do Corinthians",
-            "lenda": "Ulgrim"
-        },
-        {
-            "nome": "Arthur",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Cruzeiro",
-            "lenda": "Nix"
-        },
-        {
-            "nome": "Kill3r",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Cruzeiro",
-            "lenda": "Thea"
+            "lenda": "ulgrim"
         },
         {
             "nome": "ytt",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "Corazon",
+            "nome": "Mobas",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Mobas777",
+            "nome": "gaby cariani",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
-            "nome": "nokiarachadoo",
+            "nome": "Malukita",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Inimigos da Moda",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "AbaCat",
+            "nome": "Meschiati",
+            "hierarquia": "Membro",
+            "custo": 30,
+            "clan": "Inimigos da Moda",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "BreaDs_ASS",
+            "hierarquia": "Membro",
+            "custo": 30,
+            "clan": "Olimpo",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "TomiokaUlindu",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Patota da Moneymatch",
-            "lenda": "desconhecido"
+            "lenda": "bodvar"
         },
         {
-            "nome": "8doido",
+            "nome": "BISDOV",
+            "hierarquia": "Membro",
+            "custo": 30,
+            "clan": "Patota da Moneymatch",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "zZGamo",
+            "hierarquia": "Membro",
+            "custo": 30,
+            "clan": "Patota da Moneymatch",
+            "lenda": "bodvar"
+        },
+        {
+            "nome": "luxquinha123",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "kzky",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Ranked Beasts",
-            "lenda": "desconhecido"
-        },
-        {
-            "nome": "SoullBH",
-            "hierarquia": "Membro",
-            "custo": 30,
-            "clan": "Strawberry Tea",
-            "lenda": "desconhecido"
+            "lenda": "aang"
         },
         {
             "nome": "Nick",
             "hierarquia": "Membro",
             "custo": 30,
             "clan": "Vasco",
-            "lenda": "desconhecido"
+            "lenda": "gnash"
         },
         {
-            "nome": "Cara da Tim",
+            "nome": "GuguFirey",
             "hierarquia": "Membro",
             "custo": 20,
             "clan": "Aurora",
-            "lenda": "Bodvar"
+            "lenda": "bodvar"
         },
         {
-            "nome": "Lucazim",
+            "nome": "Alvaro",
             "hierarquia": "Membro",
             "custo": 20,
-            "clan": "Complexo do Corinthians",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "bodvar"
         },
         {
-            "nome": "KemellPylka",
+            "nome": "menlz1",
             "hierarquia": "Membro",
             "custo": 20,
-            "clan": "Firebirds",
-            "lenda": "desconhecido"
+            "clan": "Olimpo",
+            "lenda": "aang"
+        },
+        {
+            "nome": ".souzay",
+            "hierarquia": "Membro",
+            "custo": 20,
+            "clan": "Ranked Beasts",
+            "lenda": "bodvar"
         }
     ]
 }
