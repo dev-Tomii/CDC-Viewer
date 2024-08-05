@@ -30,20 +30,20 @@ players = getPlayers()['jogadores']
 def updateValues():
     cla.configure(values=getClansValues())
     lenda.configure(values=getLegendsValues())
-    
+
 def clearTable():
     treeview.delete(*treeview.get_children())
     treeview.update()
     with open('./players.json', 'w') as f:
         f.write('{}')
-    
+
 def refreshTable():
     treeview.delete(*treeview.get_children())
     players = getPlayers()['jogadores']
     for i in players:
         treeview.insert("", tk.END, text=i['nome'], values=(i['custo'], i['clan'], i['hierarquia'], i['lenda']))
     treeview.update()
-        
+
 def selectItem(e):
     curItem = treeview.focus()
     p = treeview.item(curItem)
@@ -52,14 +52,14 @@ def selectItem(e):
     clan.set(p['values'][1])
     rank.set(p['values'][2])
     legend.set(p['values'][3])
-    
+
 def updatePlayer():
     item = treeview.focus()
     treeview.item(item, text=name.get(), values=(cost.get(), clan.get(), rank.get(), legend.get()))
     treeview.update()
     savePlayer(treeview)
     refreshTable()
-    
+
 def addPlayer():
     player = {"nome": name.get(), "hierarquia": rank.get(), "custo": cost.get(), "clan": clan.get(), "lenda": legend.get()}
     treeview.insert("", tk.END, text=player['nome'], values=(player['custo'], player['clan'], player['hierarquia'], player['lenda']))
@@ -67,7 +67,7 @@ def addPlayer():
     players.append(player)
     savePlayer(treeview)
     refreshTable()
-    
+
 def deletePlayer():
     curItem = treeview.focus()
     items = treeview.get_children()
@@ -77,7 +77,7 @@ def deletePlayer():
     players.pop(i)
     savePlayer(treeview)
     refreshTable()
-    
+
 def updateTable():
     downloadPlayers()
     updateValues()

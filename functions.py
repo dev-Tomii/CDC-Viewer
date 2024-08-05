@@ -53,7 +53,7 @@ def savePlayer(treeview):
         data = treeview.item(i)
         player = {"nome": f"{data['text']}", "hierarquia": f"{data['values'][2]}", "custo": data['values'][0], "clan": f"{data['values'][1]}", "lenda": f"{data['values'][3]}"}
         jsonArr['jogadores'].append(player)
-    jsonArr['jogadores'].sort(key=lambda x: x['custo'], reverse=True)
+    jsonArr['jogadores'].sort(key=lambda x: (-x['custo'], x['clan']))
     with open('players.json', 'w') as f:
         f.write(json.dumps(jsonArr, indent=4))
         f.close()
