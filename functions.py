@@ -11,19 +11,22 @@ def verifyDB():
         downloadLegends()
 
 def downloadClans():
-    raw = requests.get('https://api.npoint.io/6488fb58f82a76e31664')
+    raw = requests.get('https://coliseum-web.vercel.app/api/clans')
+    print(raw.status_code)
     response = json.loads(raw.text)
     with open('./clans.json', 'w') as f:
         f.write(json.dumps(response, indent=4))
         
 def downloadLegends():
-    raw = requests.get('https://api.npoint.io/a61cbe38560a9ac5d278')
+    raw = requests.get('https://coliseum-web.vercel.app/api/legends')
+    print(raw.status_code)
     response = json.loads(raw.text)
     with open('./legends.json', 'w') as f:
         f.write(json.dumps(response, indent=4))
 
 def downloadPlayers():
-    data = requests.get('https://api.npoint.io/73701443fb9f9a913c0b')
+    data = requests.get('https://coliseum-web.vercel.app/api/players')
+    print(data.status_code)
     player = json.loads(data.text)
     with open('./players.json', 'w') as f:
         f.write(json.dumps(player, indent=4))
@@ -54,6 +57,11 @@ def savePlayer(treeview):
         player = {"nome": f"{data['text']}", "hierarquia": f"{data['values'][2]}", "custo": data['values'][0], "clan": f"{data['values'][1]}", "lenda": f"{data['values'][3]}"}
         jsonArr['jogadores'].append(player)
     jsonArr['jogadores'].sort(key=lambda x: (-x['custo'], x['clan']))
+    x = requests.post('https://coliseum-web.vercel.app/api/players', json=jsonArr)
+    if (x.status_code == 200):
+        print('Salvado com exito')
+    else:
+        print(x.status_code)
     with open('players.json', 'w') as f:
         f.write(json.dumps(jsonArr, indent=4))
         f.close()
